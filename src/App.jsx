@@ -6,7 +6,7 @@ import api from './api/axios';
 function App() {
 
   const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-  const platforms = ['YouTube - PSR Vlog', 'YouTube PSR Academy', 'LinkedIn', 'Facebook'];
+  const platforms = ['YouTube - PSR Vlog', 'YouTube PSR Academy', 'LinkedIn', 'Facebook', 'Instagram'];
 
   const [record, setRecord] = useState({
     platform: 'YouTube - PSR Vlog',
