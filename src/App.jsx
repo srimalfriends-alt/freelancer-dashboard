@@ -58,7 +58,7 @@ function App() {
     <>
       <section id="center">
         <div className='w-100 p-3'>
-          <h2>Income form</h2>
+          <h2>Income Inputs</h2>
           <Form>
             <Form.Group className="mb-3 d-flex" controlId="formBasicEmail">
               <Form.Label className='me-2'>Select the month</Form.Label>
